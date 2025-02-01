@@ -51,7 +51,7 @@ Une démonstration des outils et technologies mis à disposition, avec un focus 
 | Les participants ont confiance en leur projet | 10     |
 | Clarté des idées                      | 5      |
 | 🔴**Thème**                                 | /10     |
-| Respect du thème                      | 5      |
+| Respect du thème                      | 10      |
 | **Total**                             | **/75** |
 
 ## Aspect Développement Durable (25%)
