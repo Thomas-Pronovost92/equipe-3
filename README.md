@@ -62,7 +62,7 @@ Une démonstration des outils et technologies mis à disposition, avec un focus 
 | Répond à un besoin réel et important  | 10     |
 | Contribue à la solution               | 10     |
 | Économique et abordable               | 5      |
-| 🔴**Matériaux**                             | /5      |
+| 🔴**Matériaux**                             | /20      |
 | Matériaux courants et sécuritaires    | 5      |
 | Facilement réparable                  | 5      |
 | Recyclable                            | 5      |
